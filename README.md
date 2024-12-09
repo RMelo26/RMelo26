@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Renan Melo</h1>
+<h1 align="center">Olá 👋, eu sou o Renan </h1>
 <h3 align="center">Estudante iniciante de programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmelo26&label=Profile%20views&color=ef0101&style=plastic" alt="rmelo26" /> </p>
