@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmelo26&label=Profile%20views&color=ef0101&style=plastic" alt="rmelo26" /> </p>
 
 - 🌱 I am currently learning **Python, HTML e CSS**
-- 📫Mail **renan.melo26@yahoo.com.br**
+- 📫Mail:  **renan.melo26@yahoo.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
