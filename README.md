@@ -1,11 +1,10 @@
 <h1 align="center">Olá, eu sou o Renan Melo 👋 </h1>
-<h3 align="center">Estudante iniciante de programação</h3>
+<h3 align="center">Beginner programming student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmelo26&label=Profile%20views&color=ef0101&style=plastic" alt="rmelo26" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Python, HTML e CSS**
-- 📫Contato **renan.melo26@yahoo.com.br**
--  😄 Pronomes: ele/dele
+- 🌱 I am currently learning **Python, HTML e CSS**
+- 📫Mail **renan.melo26@yahoo.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
